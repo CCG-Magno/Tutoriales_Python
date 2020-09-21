@@ -4,6 +4,6 @@
 ---
 ## Indice
 - [Variables](https://github.com/CCG-Magno/Tutoriales_Python/blob/master/variables.py)
-- Condiciones
+- [Condiciones](https://github.com/CCG-Magno/Tutoriales_Python/blob/master/condiciones.py)
 - [Lazos/ Bucles / Loops](https://github.com/CCG-Magno/Tutoriales_Python/blob/master/looping_sample.py)
 ---
